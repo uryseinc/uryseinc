@@ -15,4 +15,4 @@ uRyse aims to simplify learning and assesment using superior content and technol
 
 ## Be in the know
 
-This site is actively being developed, please write to contat(at)uryse.com for any inforation.
+This site is actively being developed, please write to contact(at)uryse.com for any inforation.
