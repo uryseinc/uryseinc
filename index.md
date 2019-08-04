@@ -1,10 +1,8 @@
 ## Welcome to uRyse landing page
 
-URyse aims to simplify learning and assesment using superior content and technology.
+uRyse aims to simplify learning and assesment using superior content and technology. Learning should be collaborative, easy and for sure fun. uRyse aspires to bridge that gap and make learning and assesment enjoyable.
 
 
-[Link](url) and ![Image](/cover.png)
-```
 ![Image](/cover.png)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
