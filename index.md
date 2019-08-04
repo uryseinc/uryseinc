@@ -7,7 +7,7 @@ uRyse aims to simplify learning and assesment using superior content and technol
 <br>
 
 ![Image](/cover.png)
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 
 <br>
