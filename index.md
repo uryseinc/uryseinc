@@ -12,6 +12,6 @@ uRyse aims to simplify learning and assesment using superior content and technol
 
 <br>
 <br>
-### Be in the know
+## Be in the know
 
 This site is actively being developed, please write to contat(at)uryse.com for any inforation.
